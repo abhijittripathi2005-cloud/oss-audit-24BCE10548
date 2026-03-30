@@ -19,3 +19,9 @@ echo "--- Open Source Philosophy Note ---"
 case $PACKAGE in
     git)   echo "Git: built in a crisis, open-sourced by principle." ;;
     httpd|apache2) echo "Apache: the web server that built the open internet." ;;
+    mysql|mariadb) echo "MySQL/MariaDB: open source at the heart of millions of apps." ;;
+    firefox) echo "Firefox: a nonprofit fighting for an open web." ;;
+    python3|python) echo "Python: a language shaped entirely by community." ;;
+    *) echo "Unknown package: check opensource.org for licence and philosophy." ;;
+
+
