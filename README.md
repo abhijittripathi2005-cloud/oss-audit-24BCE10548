@@ -22,7 +22,7 @@ The report explores Git not just as a tool, but as a **philosophical, technical,
 * **Course:** Open Source Software
 * **Institution:** VIT BHOPAL
 * **Submission Date:** 31 March 2026
-* **Slot:** A-24
+* **Slot:** E-22
 
 ---
 
