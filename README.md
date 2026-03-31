@@ -20,7 +20,7 @@ The report explores Git not just as a tool, but as a **philosophical, technical,
 * **Name:** Abhijit Tripathi
 * **Registration Number:** 24BCE10548
 * **Course:** Open Source Software
-* **Institution:** VIT
+* **Institution:** VIT BHOPAL
 * **Submission Date:** 31 March 2026
 
 ---
