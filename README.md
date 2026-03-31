@@ -15,13 +15,14 @@ The report explores Git not just as a tool, but as a **philosophical, technical,
 
 ---
 
-## 👨‍🎓 Author
+## 👨‍🎓 Student Detail
 
 * **Name:** Abhijit Tripathi
 * **Registration Number:** 24BCE10548
 * **Course:** Open Source Software
 * **Institution:** VIT BHOPAL
 * **Submission Date:** 31 March 2026
+* **Slot:**A-24
 
 ---
 
